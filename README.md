@@ -7,3 +7,7 @@ Deploying Solidity Contract On Plasm Network V1
 
 ## instance 
 XzNvawx3towsVUTobJciWRRMjFM194ryCdPR2rYq3rjBrZ8
+ 
+# I have put wrong address in gitcoin to recieve my dot....
+# true address here!!  
+# 15Di5L4Vdg9ymkhm96J3DDs6CGMwhY828ZxpXd6BSpvLnD9e
